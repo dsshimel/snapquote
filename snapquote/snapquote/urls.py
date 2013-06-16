@@ -6,7 +6,7 @@ admin.autodiscover()
 # from django.contrib import admin
 # admin.autodiscover()
 
-urlpatterns = patterns('',
+urlpatterns = patterns(
     # Examples:
     # url(r'^$', 'snapquote.views.home', name='home'),
     # url(r'^snapquote/', include('snapquote.foo.urls')),
